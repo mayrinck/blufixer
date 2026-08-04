@@ -69,7 +69,8 @@ gtk-update-icon-cache -f -t /usr/local/share/icons/hicolor 2>/dev/null || true
 
 ## License
 
-MIT License. Copyright © 2026 Renan Mayrinck.
+MIT License. 
+Credits to: Renan Mayrinck.
 
 ## Author
 
